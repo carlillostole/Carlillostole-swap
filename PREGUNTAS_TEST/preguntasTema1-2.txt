@@ -2,7 +2,7 @@
   <enunciado>Una granja web es un conjunto de servidores dedicados a servir contenido web a los usuarios finales. Son sistemas muy complejos pero a su vez:flexibles, funcionales y escalables.</enunciado>
   <opcionA>Flexibles</opcionA>
   <opcionB>Funcionales y escalables</opcionB>
-  <opcionC>Escalables</opcionC>
+  <opcionC>Escalables y flexibles</opcionC>
   <opcionD>La a y b</opcionD>
   <solucion>D</solucion>
 </pregunta>
