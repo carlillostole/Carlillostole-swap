@@ -1,0 +1,17 @@
+<pregunta>
+  <enunciado>¿Cuál de las siguientes características de configuración de DMZ es falsa?:</enunciado>
+  <opcionA>El delantero es un segmento de red conectado a Internet.</opcionA>
+  <opcionB>El DMZ tiene un front-rail y un back-rail</opcionB>
+  <opcionC>El trasero está conectado a la red externa (segura), y protegido con otro cortafuegos</opcionC>
+  <opcionD>Los servidores quedan protegidos con el cortafuegos.</opcionD>
+  <solucion>C</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>La calidad de la conexión a Internet depende de varios factores:</enunciado>
+  <opcionA>Calidad del servicio y ancho de banda, filtrado y bloqueo de paquetes</opcionA>
+  <opcionB>Filtrado y bloqueo de paquetes, y network address translation</opcionB>
+  <opcionC>Calidad del servicio y ancho de banda</opcionC>
+  <opcionD>Calidad del servicio y ancho de banda, filtrado y bloqueo de paquetes, y network address translation.</opcionD>
+  <solucion>D</solucion>
+</pregunta>
