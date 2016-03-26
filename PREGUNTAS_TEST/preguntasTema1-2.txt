@@ -1,5 +1,5 @@
 <pregunta>
-  <enunciado>Una granja web es un conjunto de servidores dedicados a servir contenido web a los usuarios finales. Son sistemas muy complejos pero a su vez:flexibles, funcionales y escalables.</enunciado>
+  <enunciado>Una granja web es un conjunto de servidores dedicados a servir contenido web a los usuarios finales. Son sistemas muy complejos pero a su vez:/enunciado>
   <opcionA>Flexibles</opcionA>
   <opcionB>Funcionales y escalables</opcionB>
   <opcionC>Escalables y flexibles</opcionC>
@@ -8,7 +8,7 @@
 </pregunta>
 
 <pregunta>
-  <enunciado>Los elementos hardware que primero suelen fallar en un servidor web son: son las fuentes de alimentación y los discos duros.</enunciado>
+  <enunciado>Los elementos hardware que primero suelen fallar en un servidor web son:</enunciado>
   <opcionA>Memoria RAM y disco duro</opcionA>
   <opcionB>Disco duro</opcionB>
   <opcionC>Tarjeta de video</opcionC>
