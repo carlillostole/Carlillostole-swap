@@ -1,0 +1,37 @@
+<pregunta>
+  <enunciado>Una granja web es un conjunto de servidores dedicados a servir contenido web a los usuarios finales. Son sistemas muy complejos pero a su vez:/enunciado>
+  <opcionA>Flexibles</opcionA>
+  <opcionB>Funcionales y escalables</opcionB>
+  <opcionC>Escalables y flexibles</opcionC>
+  <opcionD>La a y b</opcionD>
+  <solucion>D</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Los elementos hardware que primero suelen fallar en un servidor web son:</enunciado>
+  <opcionA>Memoria RAM y disco duro</opcionA>
+  <opcionB>Disco duro</opcionB>
+  <opcionC>Tarjeta de video</opcionC>
+  <opcionD>Fuente de alimentación y disco duro</opcionD>
+  <solucion>D</solucion>
+</pregunta>
+
+
+<pregunta>
+  <enunciado>La forma de calcular la disponibilidad de un sistema se basa en la "escala punto nueve", lo habitual es referirlo al periodo de un año, y actualmente los grandes sitios web se conforman con una disponibilidad del:</enunciado>
+  <opcionA>99.9%</opcionA>
+  <opcionB>98.99%</opcionB>
+  <opcionC>99.99% y 99.9%</opcionC>
+  <opcionD>100% y 99%</opcionD>
+  <solucion>C</solucion>
+</pregunta>
+
+
+<pregunta>
+  <enunciado>Tipo de escalado en un servidor web:.</enunciado>
+  <opcionA>Ampliación vertical, que supone mejorar o incrementar alguna parte del hardware (RAM, CPU, disco de un servidor, etc) y Ampliación horizontal, que supone añadir máquinas a algún subsistema (servidores web, servidores de datos, etc).</opcionA>
+  <opcionB>Ampliación vertical, que supone añadir máquinas a algún subsistema (servidores web, servidores de datos, etc) y Ampliación horizontal, que supone mejorar o incrementar alguna parte del hardware (RAM, CPU, disco de un servidor,etc).</opcionB>
+  <opcionC>Ampliación vertical, que supone mejorar o incrementar alguna parte del hardware (RAM, CPU, disco de un servidor, etc).</opcionC>
+  <opcionD>Ninguna de las anteriores</opcionD>
+  <solucion>A</solucion>
+</pregunta>
