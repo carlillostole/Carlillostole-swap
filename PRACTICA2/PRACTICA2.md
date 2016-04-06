@@ -15,12 +15,15 @@ Una vez instalado vamos a comprobar que funciona. De la primera práctica, ya te
 
 ![curl](https://github.com/carlillostole/Carlillostole-swap/blob/master/PRACTICA2/img/curl.png?raw=true)
 
+#**Copiar archivos mediante ssh**
+
 Lo primero que vamos a probar es copiar archivos mediante ssh de una máquina a otra, como prueba vamos a copiar un directorio, para ello primero lo comprimiremos con tar, y lo pasamos mediante “ssh” al otro ordenador, redirigiendo además la salida a un archivo que en este caso vamos a llamar “tar.tgz”. Vemos como el archivo se ha creado en la segunda máquina.
 
 ![curl](https://github.com/carlillostole/Carlillostole-swap/blob/master/PRACTICA2/img/tar%20m1.png?raw=true)
 
 ![curl](https://github.com/carlillostole/Carlillostole-swap/blob/master/PRACTICA2/img/tarm2.png?raw=true)
 
+#**Clonar contenido entre máquinas**
 
 Ya hemos visto como copiar un archivo desde un ordenador a otro, pero cuando la dimensión de los archivos es considerable en tamaño o número, es mejor usar otras herramientas como rsync, que nos permitirá copiar una estructura de directorios completa, además controlando que la información que contiene la copia siempre es idéntica a la original. Para evitar contratiempos, activaremos las cuentas de usuario “root” en ambos sistemas para realizar esta operación, esto se hace dándolo una contraseña a dicho usuario, por lo que introduciremos sudo passwd root para realizar dicha acción. Una vez hecho esto, ejecutamos rsync, y finalmente comprobamos que los archivos copiados son exactos a los originales.
 
