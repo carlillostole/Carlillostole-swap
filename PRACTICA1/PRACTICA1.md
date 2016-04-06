@@ -8,6 +8,8 @@ apache2 -v
 
 ps aux | grep apache
 
+![Sin titulo](C:\Users\carlillos tole\Desktop\2ºCUATRIMESTR\SWAP\PRACTICA1\1.jgp)
+
 !(C:\Users\carlillos tole\Desktop\2ºCUATRIMESTR\SWAP\PRACTICA1\1.jgp "Maquina 1")
 
 (C:\Users\carlillos tole\Desktop\2ºCUATRIMESTR\SWAP\PRACTICA1\1(2.jgp "Maquina 2")
