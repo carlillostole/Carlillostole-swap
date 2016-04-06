@@ -8,7 +8,7 @@ apache2 -v
 
 ps aux | grep apache
 
-![Sin titulo](C:\Users\carlillos tole\Desktop\2ºCUATRIMESTR\SWAP\PRACTICA1\2.png)
+![Sin titulo](2.png)
 
 !(C:\Users\carlillos tole\Desktop\2ºCUATRIMESTR\SWAP\PRACTICA1\1.jgp "Maquina 1")
 
