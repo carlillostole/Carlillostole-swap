@@ -10,7 +10,6 @@ ps aux | grep apache
 
 ![Máquina 1](https://github.com/carlillostole/Carlillostole-swap/tree/master/PRACTICA1/img/1.png)
 
-!(C:\Users\carlillos tole\Desktop\2ºCUATRIMESTR\SWAP\PRACTICA1\1.jgp "Maquina 1")
+![Máquina 2](https://github.com/carlillostole/Carlillostole-swap/tree/master/PRACTICA1/img/2.png)
 
-(C:\Users\carlillos tole\Desktop\2ºCUATRIMESTR\SWAP\PRACTICA1\1(2.jgp "Maquina 2")
 
