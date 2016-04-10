@@ -10,10 +10,10 @@
 
 
 <pregunta>
-  <enunciado>¿Cuál de las siguientes características de configuración de DMZ es falsa?:</enunciado>
-  <opcionA>El servicio está disponible la mayor parte del tiempo.</opcionA>
+  <enunciado>El concepto "persistencia" hace referencia a:</enunciado>
+  <opcionA>El servicio está disponible la mayor parte del tiempo</opcionA>
   <opcionB>El balanceador redirige a todos los usuarios al mismo servidor.</opcionB>
-  <opcionC>El balanceador mantiene a los usuarios en espera si el servicio no está disponible.</opcionC>
+  <opcionC> El balanceador mantiene a los usuarios en espera si el servicio no está disponible.</opcionC>
   <opcionD>El tráfico de un usuario se dirige al servidor que comenzó a atenderlo.</opcionD>
   <solucion>D</solucion>
 </pregunta>
