@@ -1,0 +1,20 @@
+<pregunta>
+  <enunciado>Métricas comúnmente usadas para medir las prestaciones de un sitio web:</enunciado>
+  <opcionA>Escalabilidad, fiabilidad y coste.</opcionA>
+  <opcionB>Conexiones por segundo, número total de conexiones concurrentes y rendimiento.</opcionB>
+  <opcionC>Número total de conexiones concurrentes, rendimiento y disponibilidad</opcionC>
+  <opcionD>Conexiones por segundo, escalabilidad y disponibilidad.</opcionD>
+  <solucion>B</solucion>
+</pregunta>
+
+
+<pregunta>
+  <enunciado>¿Qué tipo de prueba realizaríamos si quisiéramos detectar el punto de saturación del sistema?:</enunciado>
+  <opcionA>Carga (Load)</opcionA>
+  <opcionB>Estabilidad (Stability)</opcionB>
+  <opcionC>Sobrecarga (Overload)</opcionC>
+  <opcionD>Capacidad (Capacity)</opcionD>
+  <solucion>D</solucion>
+</pregunta>
+
+
