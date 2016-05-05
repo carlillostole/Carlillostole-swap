@@ -48,7 +48,7 @@ Instalamos HAProxy sin ninguna complicación usando apt-get. Y procedemos a real
 
 ![curl](https://github.com/carlillostole/Carlillostole-swap/blob/master/PRACTICA3/img/3.png?raw=true)
 
-Una vez hecha la configuración, y ya podemos comprobar el funcionamiento con curl http://"direccionIP"
+Una vez hecha la configuración, ya podemos comprobar el funcionamiento con curl http://"direccionIP"
 
 ![curl](https://github.com/carlillostole/Carlillostole-swap/blob/master/PRACTICA3/img/4.png?raw=true)
 
