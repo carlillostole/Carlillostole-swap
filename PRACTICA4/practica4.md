@@ -15,13 +15,13 @@ Los resultados en VMWare han sido los siguientes:
 Comando ejecutado: ab -n 1000 -c 10 http://IPmaquina/prueba.html
 El archivo prueba.html es un archivo creado en /var/www.
 
-![curl](servidor1bench)
+![curl](https://github.com/carlillostole/Carlillostole-swap/blob/master/PRACTICA4/img/tests%20benchmark/servidor1bench.png)
 
 
-![curl](nginxbench)
+![curl](https://github.com/carlillostole/Carlillostole-swap/blob/master/PRACTICA4/img/tests%20benchmark/nginxbench.png)
 
 
-![curl](HAproxybench)
+![curl](https://github.com/carlillostole/Carlillostole-swap/blob/master/PRACTICA4/img/tests%20benchmark/haproxybench.png)
 
 
 ![curl](grafica1)
