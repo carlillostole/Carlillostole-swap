@@ -15,31 +15,31 @@ Los resultados en VMWare han sido los siguientes:
 Comando ejecutado: ab -n 1000 -c 10 http://IPmaquina/prueba.html
 El archivo prueba.html es un archivo creado en /var/www.
 
-![curl](https://github.com/carlillostole/Carlillostole-swap/blob/master/PRACTICA4/img/tests%20benchmark/servidor1bench.png)
+![curl](servidor1bench)
 
 
-![curl](https://github.com/carlillostole/Carlillostole-swap/blob/master/PRACTICA4/img/tests%20benchmark/nginxbench.png)
+![curl](nginxbench)
 
 
-![curl](https://github.com/carlillostole/Carlillostole-swap/blob/master/PRACTICA4/img/tests%20benchmark/haproxybench.png)
+![curl](HAproxybench)
 
 
-![curl](grafica1)
+![curl](https://github.com/carlillostole/Carlillostole-swap/blob/master/PRACTICA4/img/graficas%20benchmark/grafica1.jpg)
 
 
-![curl](grafica2)
+![curl](https://github.com/carlillostole/Carlillostole-swap/blob/master/PRACTICA4/img/graficas%20benchmark/grafica2.jpg)
 
 
-![curl](grafica3)
+![curl](https://github.com/carlillostole/Carlillostole-swap/blob/master/PRACTICA4/img/graficas%20benchmark/grafica3.jpg)
 
 
-![curl](grafica4)
+![curl](https://github.com/carlillostole/Carlillostole-swap/blob/master/PRACTICA4/img/graficas%20benchmark/grafica4.png)
 
 
-![curl](grafica5)
+![curl](https://github.com/carlillostole/Carlillostole-swap/blob/master/PRACTICA4/img/graficas%20benchmark/grafica5.png)
 
 
-![curl](grafica6)
+![curl](https://github.com/carlillostole/Carlillostole-swap/blob/master/PRACTICA4/img/graficas%20benchmark/grafica6.png)
 
 
 #**Siege**
@@ -49,35 +49,36 @@ Los resultados en VMWare han sido los siguientes:
 Comando ejecutado: siege  -b -t60S -v http://ipmaquina
 El archivo prueba.html es un archivo creado en /var/www.
 
-![curl](servidor2siege)
+![curl](https://github.com/carlillostole/Carlillostole-swap/blob/master/PRACTICA4/img/tests%20siege/grafica1.png)
 
 
-![curl](nginxsiege)
+![curl](https://github.com/carlillostole/Carlillostole-swap/blob/master/PRACTICA4/img/tests%20siege/grafica2.png)
 
 
-![curl](HAproxysiege)
+![curl](https://github.com/carlillostole/Carlillostole-swap/blob/master/PRACTICA4/img/tests%20siege/grafica3.png)
 
 
-![curl](grafica1)
+![curl](https://github.com/carlillostole/Carlillostole-swap/blob/master/PRACTICA4/img/graficas%20siege/grafica1.png)
 
 
-![curl](grafica2)
+![curl](https://github.com/carlillostole/Carlillostole-swap/blob/master/PRACTICA4/img/graficas%20siege/grafica2.png)
 
 
-![curl](grafica3)
+![curl](https://github.com/carlillostole/Carlillostole-swap/blob/master/PRACTICA4/img/graficas%20siege/grafica3.png)
 
 
-![curl](grafica4)
+![curl](https://github.com/carlillostole/Carlillostole-swap/blob/master/PRACTICA4/img/graficas%20siege/grafica4.png)
 
 
-![curl](grafica5)
+![curl](https://github.com/carlillostole/Carlillostole-swap/blob/master/PRACTICA4/img/graficas%20siege/grafica5.png)
 
 
-![curl](grafica6)
+![curl](https://github.com/carlillostole/Carlillostole-swap/blob/master/PRACTICA4/img/graficas%20siege/grafica6.png)
 
 
-![curl](grafica8)
+![curl](https://github.com/carlillostole/Carlillostole-swap/blob/master/PRACTICA4/img/graficas%20siege/grafica7.png)
 
 
+![curl](https://github.com/carlillostole/Carlillostole-swap/blob/master/PRACTICA4/img/graficas%20siege/grafica8.png)
 
 Los resultados son más o menos los esperados, tardando menos con el balanceador que en el servidor solo. Vemos también que HaProxy es mejor balanceador que Nginx, ya que los tiempos son siempre mejores.
