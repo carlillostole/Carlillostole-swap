@@ -1,0 +1,19 @@
+<pregunta>
+  <enunciado>¿Con qué directiva configuraríamos un cortafuegos para evitar el acceso a Facebook?:</enunciado>
+  <opcionA>iptables -A OUTPUT -p tcp -d facebook.com -j BLOCK</opcionA>
+  <opcionB>netstat -tulpn -b facebook.com</opcionB>
+  <opcionC>iptables -A OUTPUT -p tcp -d facebook.com -j DROP</opcionC>
+  <opcionD>iptables -A INPUT -p udp -d facebook.com -j DROP</opcionD>
+  <solucion>C</solucion>
+</pregunta>
+
+
+<pregunta>
+  <enunciado>¿En qué consiste la integridad al hablar de seguridad de un sistema web?:</enunciado>
+  <opcionA>Los mensajes sólo pueden ser leídos por emisor y receptor.</opcionA>
+  <opcionB>Los mensajes deben llegar al destinatario correcto.</opcionB>
+  <opcionC>El número de mensajes enviados debe coincidir con el número de mensajes recibidos.</opcionC>
+  <opcionD>Los mensajes enviados deben ser exactamente los recibidos.</opcionD>
+  <solucion>D</solucion>
+</pregunta>
+
