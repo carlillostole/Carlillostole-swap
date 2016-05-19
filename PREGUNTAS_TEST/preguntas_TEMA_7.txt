@@ -1,0 +1,20 @@
+<pregunta>
+  <enunciado>¿Qué significa RAID y para qué sirve?:</enunciado>
+  <opcionA>Really Awsome Insect Destructor. No hay que aclarar más.</opcionA>
+  <opcionB>Redundant Array of Independent Disks. Usan múltiples discos para distribuir o replicar los datos.</opcionB>
+  <opcionC>Replicated Array of Intelligent Databases. Bases de datos inteligentes y distribuidas para aumentar la velocidad y disponibilidad.</opcionC>
+  <opcionD>Replicated Array of Independent Disks. Usan múltiples discos para replicar los datos.</opcionD>
+  <solucion>B</solucion>
+</pregunta>
+
+
+<pregunta>
+  <enunciado>Definición de la tecnología de almacenamiento SAN:</enunciado>
+  <opcionA>Consiste en una red de alta velocidad conectando dispositivos de almacenamiento a los servidores.</opcionA>
+  <opcionB>Es un dispositivo que actúa como servidor que suele guardar copias de seguridad.</opcionB>
+  <opcionC>Es un array de almacenamiento compartido e incluye discos en rack.</opcionC>
+  <opcionD>Es un conjunto de discos que incluyen copias de seguridad conectado a los servidores.</opcionD>
+  <solucion>A</solucion>
+</pregunta>
+
+
