@@ -39,23 +39,23 @@ mysql> describe datos;
 
 mysql> quit
 
-![curl]()
+![curl](https://github.com/carlillostole/Carlillostole-swap/blob/master/PRACTICA5/img/1.png)
 
 
 #**Replicar una BD MySQL con mysqldump**
 
 Vamos a guardar los datos que tenemos en la BD que acabamos de crear en la máquina 1 con mysqldump. Para ello, vamos primero a bloquear las tablas, ya que antes de hacer la copia de seguridad debemos impedir que la BD se modifique. Después ejecutamos la orden mysqldump contactos -u root -p > /root/contactos.sql, que nos pedirá la contraseña de la mysql, y una vez hecho esto, tendremos los datos copiados. Ahora podemos volver a entrar en la BD y desbloquear las tablas.
 
-![curl]()
+![curl](https://github.com/carlillostole/Carlillostole-swap/blob/master/PRACTICA5/img/2.png)
 
 
 Vamos a la máquina 2 y guardamos los datos que acabamos de copiar (poniendo la IP de la máquina 1):
 
-![curl]()
+![curl](https://github.com/carlillostole/Carlillostole-swap/blob/master/PRACTICA5/img/3.png)
 
 Ahora es necesario que creemos la base de datos que hemos creado en la máquina 1 para poder copiar los datos en la BD de la máquina 2. Entramos entonces en mysql y una vez tengamos la BD creada ejecutamos mysql -uroot -p contactos < /root/contactos.sql
 
-![curl]()
+![curl](https://github.com/carlillostole/Carlillostole-swap/blob/master/PRACTICA5/img/4.png)
 
 
 
@@ -100,7 +100,7 @@ Para comprobar que todo funciona, debemos ir al maestro e introducir nuevos dato
 la base de datos. A continuación vamos al esclavo para revisar si la modificación se ha
 reflejado en la tabla modificada en el maestro:
 
-![curl]()
+![curl](https://github.com/carlillostole/Carlillostole-swap/blob/master/PRACTICA5/img/5.png)
 
 
-![curl]()
+![curl](https://github.com/carlillostole/Carlillostole-swap/blob/master/PRACTICA5/img/6.png)
