@@ -100,7 +100,8 @@ Para comprobar que todo funciona, debemos ir al maestro e introducir nuevos dato
 la base de datos. A continuación vamos al esclavo para revisar si la modificación se ha
 reflejado en la tabla modificada en el maestro:
 
+SERVIDOR1
 ![curl](https://github.com/carlillostole/Carlillostole-swap/blob/master/PRACTICA5/img/5.png)
 
-
+SERVIDOR2
 ![curl](https://github.com/carlillostole/Carlillostole-swap/blob/master/PRACTICA5/img/6.png)
