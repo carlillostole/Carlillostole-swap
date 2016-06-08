@@ -70,27 +70,26 @@ el dispositivo RAID, que será similar a:
 
 UUID=ccbbbbcc-dddd-eeee-ffff-aaabbbcccddd /dat ext2 defaults 0 0
 
-FTOOOOOOO
+![curl](https://github.com/carlillostole/Carlillostole-swap/blob/master/PRACTICA6/img/raid.png)
 
 10.Finalmente, una vez que esté funcionando el dispositivo RAID, podemos simular un
 fallo en uno de los discos:
 
   sudo mdadm --manage --set-faulty /dev/md127 /dev/sdb
 
-  FOTOOOOOOOO
-
 También podemos retirar “en caliente” el disco que está marcado como que ha fallado:
 
   sudo mdadm --manage --remove /dev/md127/dev/sdb
-
-  FOTOOOOOO
 
 Y por último, podemos añadir, también “en caliente”, un nuevo disco que vendría a
 reemplazar al disco que hemos retirado:
 
   sudo mdadm --manage --add /dev/md127 /dev/sdb
 
-  FOTOOOOOO
+Resultado de agregar disco en caliente, producir fallo y eliminar disco:
+
+![curl](https://github.com/carlillostole/Carlillostole-swap/blob/master/PRACTICA6/img/2.png)
+
 
 En todo momento podemos obtener información detallada del estado del RAID y de
 los discos que lo componen.
